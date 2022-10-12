@@ -187,6 +187,9 @@ public class Ferrell_Problem2 {
             }
             System.out.print("-");
             System.out.print("\n");
+
+
+            
         }
     }
 }
